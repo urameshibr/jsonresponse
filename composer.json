@@ -1,0 +1,17 @@
+{
+    "name": "urameshibr/jsonresponse",
+    "description": "Helper for json response in laravel",
+    "keywords": ["laravel", "helper"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Rodrigu",
+            "email": "lucas.opensource@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/JsonResponseHelper.php"
+        ]
+    }
+}
